@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Simple-Photo-Gallery/static/css/main.11f97330.chunk.css",
+    "main.js": "/Simple-Photo-Gallery/static/js/main.39b5eca1.chunk.js",
+    "main.js.map": "/Simple-Photo-Gallery/static/js/main.39b5eca1.chunk.js.map",
+    "runtime-main.js": "/Simple-Photo-Gallery/static/js/runtime-main.efaa8d7d.js",
+    "runtime-main.js.map": "/Simple-Photo-Gallery/static/js/runtime-main.efaa8d7d.js.map",
+    "static/js/2.c75335d3.chunk.js": "/Simple-Photo-Gallery/static/js/2.c75335d3.chunk.js",
+    "static/js/2.c75335d3.chunk.js.map": "/Simple-Photo-Gallery/static/js/2.c75335d3.chunk.js.map",
+    "index.html": "/Simple-Photo-Gallery/index.html",
+    "static/css/main.11f97330.chunk.css.map": "/Simple-Photo-Gallery/static/css/main.11f97330.chunk.css.map",
+    "static/js/2.c75335d3.chunk.js.LICENSE.txt": "/Simple-Photo-Gallery/static/js/2.c75335d3.chunk.js.LICENSE.txt",
+    "static/media/Salo1.544ac9b6.jpeg": "/Simple-Photo-Gallery/static/media/Salo1.544ac9b6.jpeg",
+    "static/media/Salo2.c2e9bdca.jpeg": "/Simple-Photo-Gallery/static/media/Salo2.c2e9bdca.jpeg",
+    "static/media/Salo3.c8b996e7.jpeg": "/Simple-Photo-Gallery/static/media/Salo3.c8b996e7.jpeg",
+    "static/media/Salo4.11608443.jpeg": "/Simple-Photo-Gallery/static/media/Salo4.11608443.jpeg",
+    "static/media/Salo5.46eab08a.jpeg": "/Simple-Photo-Gallery/static/media/Salo5.46eab08a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efaa8d7d.js",
+    "static/js/2.c75335d3.chunk.js",
+    "static/css/main.11f97330.chunk.css",
+    "static/js/main.39b5eca1.chunk.js"
+  ]
+}
